@@ -1,7 +1,7 @@
 # LDAPApacaheDirectory
 CRUD operations
 
-This Maven Project Helps in manipulate data on the ApacheDS 
+This Maven Project Helps in manipulate data on the LDAP
 
 Requiremnts: 
  Java 11 or lower as of date 2 May 2022
