@@ -48,7 +48,7 @@ Setup version 11 Java Path in Windows, JAVA_HOME in linux or MacOS
 
 Project:
 With help of this code we can perform below operations : 
-  1. Create users , 
-  2. Update certain user attributes, 
-  3. Delete users, 
-  4. Add to users to group,
+  1. Create users  
+  2. Update certain user attributes
+  3. Delete users
+  4. Add to users to group
