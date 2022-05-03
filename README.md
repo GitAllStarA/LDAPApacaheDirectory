@@ -1,7 +1,7 @@
 # LDAPApacaheDirectory
 CRUD operations
 
-This Maven Project Helps in manipulate data on the LDAP
+This Maven Project Helps in manipulate data on the ApacheDS
 
 Requiremnts: 
  Java 11 or lower as of date 2 May 2022
@@ -13,6 +13,9 @@ Download links:
  Java JDK 11 https://www.oracle.com/java/technologies/javase/jdk11-archive-downloads.html
 
 Configuration:
+ Server starts and shutdown intermittenlty so the fix is to use below configuration at ApacheDS .ini file
+ https://stackoverflow.com/questions/50889055/apache-directory-studio-not-opening
+ 
  configuration of ApacaheDS at application level MacOS Path -> /Applications/ApacheDirectoryStudio.app/Contents/Eclipse/ApacheDirectoryStudio.ini
 
  #Uncomment_to_configure_Java_version_to_use
